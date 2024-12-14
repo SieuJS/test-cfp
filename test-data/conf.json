@@ -1,0 +1,187 @@
+[
+    {
+      "id": "75442486-0878-440c-9db1-a7006c25a39f",
+      "name": "John",
+      "acronym": "CITA",
+      "conference_rank_footprints": [
+        {
+          "id": "23213-12312-12312-12312",
+          "conference_id": "23213-12312-12312-12312",
+          "rank_id": "23213-12312-12312-12312",
+          "for_id": "2021",
+          "year": 2021,
+          "ranks_of_source": {
+            "id": "75442486-0878-440c-9db1-a7006c25a39f",
+            "rank": "A+",
+            "source_id": "12345678-0878-440c-9db1-a7006c25a39f",
+            "value": 10,
+            "sources": {
+              "id": "75442486-0878-440c-9db1-a7006c25a39f",
+              "name": "TechCrunch",
+              "link": "https://techcrunch.com/"
+            }
+          },
+          "for_group": {
+            "id": "2131230-123123-123123-123123",
+            "code": "4601",
+            "name": "Mathematical Sciences",
+            "for_division": {
+              "id": "2131230-123123-123123-123123",
+              "code": "string",
+              "name": "string"
+            }
+          }
+        }
+      ],
+      "call_for_papers": [
+        {
+          "id": "75442486-0878-440c-9db1-a7006c25a39f",
+          "content": "This is call for paper",
+          "conference_id": "75442486-0878-440c-9db1-a7006c25a39f",
+          "link": "https://cita.vku.udn.vn/",
+          "owner": "John",
+          "status": true,
+          "view_count": 100,
+          "start_date": "2022-01-01",
+          "end_date": "2022-01-01",
+          "country": "London",
+          "avg_rating": 4.5,
+          "access_type": "online",
+          "location": "London",
+          "important_dates": [
+            {
+              "id": "75442486-0878-440c-9db1-a7006c25a39f",
+              "date_type": "Abstract Submission",
+              "date_value": "2021-09-01",
+              "status": true,
+              "cfp_id": "96d151b2-6a58-47df-a657-18a4b8b33b75"
+            }
+          ]
+        }
+      ]
+    }
+  
+,
+{
+    "id": "75442486-0878-440c-9db1-a7006c25a39g",
+    "name": "Jane",
+    "acronym": "ICML",
+    "conference_rank_footprints": [
+        {
+            "id": "23213-12312-12312-12313",
+            "conference_id": "23213-12312-12312-12313",
+            "rank_id": "23213-12312-12312-12313",
+            "for_id": "2022",
+            "year": 2022,
+            "ranks_of_source": {
+                "id": "75442486-0878-440c-9db1-a7006c25a39g",
+                "rank": "A",
+                "source_id": "12345678-0878-440c-9db1-a7006c25a39g",
+                "value": 9,
+                "sources": {
+                    "id": "75442486-0878-440c-9db1-a7006c25a39g",
+                    "name": "Nature",
+                    "link": "https://nature.com/"
+                }
+            },
+            "for_group": {
+                "id": "2131230-123123-123123-123124",
+                "code": "4602",
+                "name": "Computer Science",
+                "for_division": {
+                    "id": "2131230-123123-123123-123124",
+                    "code": "string",
+                    "name": "string"
+                }
+            }
+        }
+    ],
+    "call_for_papers": [
+        {
+            "id": "75442486-0878-440c-9db1-a7006c25a39g",
+            "content": "This is call for paper",
+            "conference_id": "75442486-0878-440c-9db1-a7006c25a39g",
+            "link": "https://icml.cc/",
+            "owner": "Jane",
+            "status": true,
+            "view_count": 200,
+            "start_date": "2023-06-01",
+            "end_date": "2023-06-05",
+            "country": "USA",
+            "avg_rating": 4.7,
+            "access_type": "online",
+            "location": "New York",
+            "important_dates": [
+                {
+                    "id": "75442486-0878-440c-9db1-a7006c25a39g",
+                    "date_type": "Abstract Submission",
+                    "date_value": "2023-03-01",
+                    "status": true,
+                    "cfp_id": "96d151b2-6a58-47df-a657-18a4b8b33b76"
+                }
+            ]
+        }
+    ]
+},
+{
+    "id": "75442486-0878-440c-9db1-a7006c25a39h",
+    "name": "Alice",
+    "acronym": "CVPR",
+    "conference_rank_footprints": [
+        {
+            "id": "23213-12312-12312-12314",
+            "conference_id": "23213-12312-12312-12314",
+            "rank_id": "23213-12312-12312-12314",
+            "for_id": "2023",
+            "year": 2023,
+            "ranks_of_source": {
+                "id": "75442486-0878-440c-9db1-a7006c25a39h",
+                "rank": "A+",
+                "source_id": "12345678-0878-440c-9db1-a7006c25a39h",
+                "value": 10,
+                "sources": {
+                    "id": "75442486-0878-440c-9db1-a7006c25a39h",
+                    "name": "IEEE",
+                    "link": "https://ieee.org/"
+                }
+            },
+            "for_group": {
+                "id": "2131230-123123-123123-123125",
+                "code": "4603",
+                "name": "Artificial Intelligence",
+                "for_division": {
+                    "id": "2131230-123123-123123-123125",
+                    "code": "string",
+                    "name": "string"
+                }
+            }
+        }
+    ],
+    "call_for_papers": [
+        {
+            "id": "75442486-0878-440c-9db1-a7006c25a39h",
+            "content": "This is call for paper",
+            "conference_id": "75442486-0878-440c-9db1-a7006c25a39h",
+            "link": "https://cvpr2023.thecvf.com/",
+            "owner": "Alice",
+            "status": true,
+            "view_count": 300,
+            "start_date": "2023-07-01",
+            "end_date": "2023-07-05",
+            "country": "Canada",
+            "avg_rating": 4.8,
+            "access_type": "online",
+            "location": "Toronto",
+            "important_dates": [
+                {
+                    "id": "75442486-0878-440c-9db1-a7006c25a39h",
+                    "date_type": "Abstract Submission",
+                    "date_value": "2023-04-01",
+                    "status": true,
+                    "cfp_id": "96d151b2-6a58-47df-a657-18a4b8b33b77"
+                }
+            ]
+        }
+    ]
+}
+]
